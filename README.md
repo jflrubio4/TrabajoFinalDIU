@@ -1,13 +1,14 @@
 # TrabajoFinalDIU
 
-Trabajo Final Diseño Interfaces de Usuario 2023-24 
+Trabajo Final Diseño Interfaces de Usuario 2023-24
+
 Hecho por: Jose Francisco López Rubio (DIU1)
 
 ## PARTE 1. Mi experiencia UX
 
 Para esta primera parte del trabajo final de la asignatura, voy a realizar una evaluación, bajo mi experiencia, en el ámbito de las interfaces de usuario y la usabilidad de las webs, en el área de las interfaces de usuario y la usabilidad de los sitios web, abarcando tanto el entorno académico como el profesional. En el transcurso de la asignatura, se realizaron múltiples actividades que me ayudaron a adentrarme más en los fundamentos teóricos y prácticos del diseño centrado en el usuario, sobre las que voy a profundizar a continuación:
 
-**Actividades**
+# Actividades
 
 En la primera actividad, a modo introductorio a la asignatura y de forma bastante básica y sencilla, obtuve un papel como observador de una situación de la vida cotidiana y realicé una actividad etnográfica, donde detecté problemas en la interacción con un sistema de reserva de entradas online basado en un caso de estudio real sucedido en el entorno familiar. Para la realización de la actividad, se rellenó una tabla con diferentes campos en la que se recogían aspectos de la situación observada, como los factores críticos o aspectos mejorables. Dado que la persona de mi estudio, sobre todo debido a su edad y conocimiento en las tecnologías, tenía problemas para comprender las instrucciones y el funcionamiento de la propia web, podría decir que éste fue un caso algo más genérico pero más habitual de lo que se debería. Esta actividad me sirvió para adentrarme en los aspectos relacionados al usuario de una forma más externa y analizar comportamientos que, bajo mi punto de vista, puedan parecer familiares y sencillos, pero desde otra perspectiva cambia completamente la experiencia de usuario, lo que comenzó a servir de base para la realización de casos más prácticos y ayudó a entender lo importante que es tener en cuenta la diversidad de usuarios al diseñar interfaces.
 
@@ -19,7 +20,7 @@ Otro aspecto de mi formación por la asignatura fue el ejercicio de accesibilida
 
 Por último, para la última actividad tuve la oportunidad de diseñar una propuesta animada en Figma para un sitio web, en mi caso, de hamburguesas, utilizando un fichero de base que ya contenía el carrousel como efecto principal pero adaptado a la nueva propuesta. Implementé un carrusel animado que muestra diferentes tipos de hamburguesas, destacando la variedad y calidad del producto con imágenes de calidad. Utilizamos las diferentes herramientas en Figma para crear una variante que demostrara innovación y creatividad, dando lugar a un buen diseño y con unos visuales pulidos. Este proyecto nos ayudó a familiarizarnos con las herramientas de animación de Figma, pues en la asignatura no se han hecho mucho uso, de una forma algo más compleja a la que estábamos acostumbrados, para dejar los proyectos con un acabado más limpio y moderno.
 
-**Prácticas** 
+# Prácticas 
 
 Otro aspecto a tratar en esta primera parte es la parte práctica de la asignatura, dividida en 4 prácticas en las que se tratan los distintos contenidos abordados en la teoría. La realización de los estudios de usabilidad de diferentes sitios web y la creación de una propuesta de proyecto, utilizando los conocimientos adquiridos durante la asignatura, creo que han sido una forma muy enriquecedora de abordar el tema de la usabilidad y el diseño de interfaces de usuario y ha sido útil, no solo en el ámbito académico, sino para propósitos más profesionales al ser aplicable a futuros proyectos de la forma que se ha abordado en las prácticas, puliendo habilidades y conocimientos para seguir mejorando las experiencias de usuario.
 
