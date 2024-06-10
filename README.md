@@ -44,5 +44,5 @@ Para analizar las propuesta elegida, en mi caso, el Centro de Investigación en 
 
 El diseño es moderno y profesional, enfocándose de forma clara en la funcionalidad. La paleta de colores es acertada, facilitando la lectura y no entorpeciendo la navegación. Además, posee un diseño responsive muy bien adaptado, garantizando su visualización en distintos dispositivos.
 
-![Imagen](/TrabajoFinalDIU/Website%20Design%20Checklist.png)
+![Imagen 1](img/Website%20Design%20Checklist.png)
 
