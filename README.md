@@ -40,17 +40,37 @@ En conclusión, considero que las prácticas y actividades realizadas en el curs
 
 Para analizar las propuesta elegida, en mi caso, el Centro de Investigación en Tecnologías de la Información y de las Comunicaciones de la Universidad de Granada (CITIC-UGR - https://citic.ugr.es/), he usado la plantilla de Website Checklist realizada en la actividad 2 y la tabla de Usability Review para analizar la usabilidad y experiencia de usuario.
 
-### Web Design Checklist
+### 1.a) Web Design Checklist
 
 El diseño es moderno y profesional, enfocándose de forma clara en la funcionalidad. La paleta de colores es acertada, facilitando la lectura y no entorpeciendo la navegación. Además, posee un diseño responsive muy bien adaptado, garantizando su visualización en distintos dispositivos.
 
 ![Imagen 1](img/Website%20Design%20Checklist.png)
 
 
-### Usability Review
+### 1.b) Usability Review
 
 En cuanto a la usabilidad, los menús son claros y concisos, y la información está bien estructurada, pero solo es accesible desde el mapa del sitio, y si quieres volver a una sección de, por ejemplo, Contacto, cuando estás en otra pestaña, te obliga a hacerlo desde el sitemap. Los iconos pueden no resultar muy intuitivos, y hay pocos elementos que guien al usuario por el sitio.
 
 ![Imagen 2](img/Review.png)
 
 La nota final es un 83, lo que significa que es una buena web, bien estructurada, con un diseño sencillo que permite navegación fluida y contenido relevante y enfocado, pero hay ciertos aspectos de accesibilidad que podrían mejorarse, como la búsqueda (añadir más filtros), más enlaces directos a otras secciones relevantes y más descripción de la información en el home page.
+
+### 2) Comparativa
+
+La comparativa realizada con el Centro de Innovación en Tecnología para el desarrollo humano (itdUPM - https://itd.upm.es) nos sirve para analizar aspectos similares y contrarios entre ambas webs. Para ello, la técnica más útil en la realización de las prácticas es el A/B Testing, por el cual se evaluan los aspectos de las diferentes webs en busca de contrastes. Hemos usado el mismo perfil de usuario para ambos para que la comparativa sea más realista:
+
+![Imagen 3](img/Test.png)
+
+Como se puede observar, el CITIC-UGR presenta un diseño más moderno y tecnológico y, aunque le supera a la competencia en terminos de claridad y distribución de la información ya que la estructura en subcategorías del CITIC puede resultar algo confuso, la experiencia de usuario es mejor que en el itdUPM, pues no hay tanta información y con una navegación más simple e interactiva es más fácil acceder a ella.
+
+### 3) Análisis
+
+En las prácticas de diseño de interfaces de usuario, se han aplicado técnicas de investigación de usuarios, análisis de competidores, creación de personas y mapas de experiencia del usuario en partes iniciales del proyecto que han servido como base para la realización de futuras fases. Sin embargo, en el estudio de otras webs y la experiencia de usuario, solo encuentro útil lo realizado en la Práctica 1 ya que es la que se centra en analizar de forma sustancial aspectos de distintas webs, y no tanto en el desarrollo de un proyecto como lo hacen el resto.
+
+El desarrollo de diferentes perfiles usuarios ha sido fundamental para entender las necesidades y comportamientos a la hora de analizar y crear una web sobre ese análisis. Este enfoque sería igualmente valioso al evaluar los centros de investigación, para asegurarse de que el diseño y la usabilidad estén alineados con las expectativas de diferentes usuarios y brinda distintos puntos de vista al ser de públicos diversos.
+
+La creación de prototipos y la realización de pruebas de usabilidad han permitido identificar y corregir problemas antes del desarrollo final. Aplicar estas técnicas a los centros de investigación ayudaría a mejorar significativamente la experiencia de los diferentes usuarios.
+
+Además, creo que el análisis de competidores es un elemento crucial en el estudio de la usabilidad de un sitio web. Visualizar ciertas técnicas empleadas en otros lugares pueden establecer una base sólida sobre la que empezar a analizar una en concreto, y gracias a ello, encontrar aspectos que no eran notorios para conseguir una mejor versión final del proyecto.
+
+En general, las prácticas han proporcionado una base sólida en el diseño de interfaces de usuario y la experiencia de usuario y mediante ellas hemos podido aplicar de forma práctica y útil los conocimientos adquiridos en teoría, lo cual fomenta y ayuda en el crecimiento no solo del ámbito académico, sino en el ámbito profesional, ya que considero que dichos conocimientos serán muy relevantes en un futuro y pueden ser útiles en muchos aspectos de nuestro ámbito laboral.
