@@ -46,3 +46,11 @@ El diseño es moderno y profesional, enfocándose de forma clara en la funcional
 
 ![Imagen 1](img/Website%20Design%20Checklist.png)
 
+
+### Usability Review
+
+En cuanto a la usabilidad, los menús son claros y concisos, y la información está bien estructurada, pero solo es accesible desde el mapa del sitio, y si quieres volver a una sección de, por ejemplo, Contacto, cuando estás en otra pestaña, te obliga a hacerlo desde el sitemap. Los iconos pueden no resultar muy intuitivos, y hay pocos elementos que guien al usuario por el sitio.
+
+![Imagen 2](img/Review.png)
+
+La nota final es un 83, lo que significa que es una buena web, bien estructurada, con un diseño sencillo que permite navegación fluida y contenido relevante y enfocado, pero hay ciertos aspectos de accesibilidad que podrían mejorarse, como la búsqueda (añadir más filtros), más enlaces directos a otras secciones relevantes y más descripción de la información en el home page.
